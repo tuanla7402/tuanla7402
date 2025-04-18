@@ -1,16 +1,63 @@
-## Hi there 👋
+<!---
+tuanla7402/tuanla7402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-<!--
-**tuanla7402/tuanla7402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Le Anh Tuan 👋
 
-Here are some ideas to get you started:
+<div align="center">
+  <h3>
+    <img src="https://thuvienmeme.com/wp-content/uploads/2024/08/meo-dien-cuong-go-ban-phim-laptop.gif" width="50" />
+    Le Anh Tuan | 💻 Frontend & DevOps Engineer | Ho Chi Minh City, Vietnam
+    <img src="https://thuvienmeme.com/wp-content/uploads/2024/08/meo-dien-cuong-go-ban-phim-laptop.gif" width="50" />
+  </h3>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm a tech enthusiast who loves crafting beautiful web interfaces and automating deployments!  
+Whether it's building smooth UIs with **ReactJS** or deploying apps with **Docker & GitHub Actions**, I'm all in 💪  
+
+> "Code, Ship, Repeat!" — probably me every night 😆  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧑‍💻 Frontend
+- ReactJS / Next.js
+- TypeScript / JavaScript
+- TailwindCSS
+- State Management (Redux)
+
+### ☁️ DevOps
+- Docker / GitHub Actions / CI-CD
+- AWS (EC2, S3, IAM, Route 53)
+- Basic Azure knowledge
+- Scripting: Bash / Python
+- Monitoring & Logging (basic)
+
+## 🔍 Currently Exploring
+
+- Kubernetes & Helm 🚢  
+- Terraform & Infrastructure as Code 🌍  
+- Advanced React Patterns 🧩  
+
+---
+
+## 📬 Connect with me!
+
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]  
+[<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]  
+
+<br /><br />
+
+---
+
+**Let’s build cool things together!** 🌈  
+
+[github]: https://github.com/tuanla7402  
+[linkedin]: https://www.linkedin.com/in/l%C3%AA-anh-tu%E1%BA%A5n-3a2b3a283/  
+[gmail]: mrtuan7402@gmail.com
