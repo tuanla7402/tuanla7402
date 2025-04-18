@@ -47,10 +47,6 @@ Whether it's building smooth UIs with **ReactJS** or deploying apps with **Docke
 
 ---
 
-<br /><br />
-
----
-
 **Let’s build cool things together!** 🌈  
 
 [github]: https://github.com/tuanla7402  
