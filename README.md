@@ -47,11 +47,6 @@ Whether it's building smooth UIs with **ReactJS** or deploying apps with **Docke
 
 ---
 
-## 📬 Connect with me!
-
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]  
-[<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]  
-
 <br /><br />
 
 ---
